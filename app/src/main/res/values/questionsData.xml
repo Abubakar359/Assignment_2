@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item>The Earth was formed about _____ years ago.</item>
+        <item>Dinosaurs and many other species were extinct about _____ years ago.</item>
+        <item>The deepest hole in the Earth, ‘Kola Superdeep Borehole’ on Russia’s Kola Peninsula, is about _____ feet deep.</item>
+        <item>Which country is building “Mars Science City” to develop technology to colonize Mars?</item>
+        <item>The stock of “Amonium Nitrate” which was resulted in large explosion in Lebanon is a _____ chemical compound.</item>
+        <item>There are 7 continents in the world. The total area of these 7 continents is about</item>
+        <item>The Panama Canal in Panama is a man-made 77 km waterway that connects</item>
+        <item>Islands which measure less than one acre (or less than 4046.86 meter square) are often referred to as</item>
+        <item>The Pico Island is located in</item>
+        <item>Sultan Ahmed Mosque in Istanbul is popularly known as the</item>
+        <item>The Great Pyramid of Giza, the oldest of the ancient 7 wonders of the world, is located in</item>
+        <item>Lake Lucerne that has complicated shape with several sharp bends and four arms is located in</item>
+        <item>Which city is also called The City of 1,000 Minarets</item>
+        <item>The South Pole of the Earth is located in</item>
+        <item>The North Pole of the Earth is located in</item>
+    </string-array>
+</resources>

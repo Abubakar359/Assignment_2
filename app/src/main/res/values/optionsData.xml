@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options">
+        <item>4.6 million</item>
+        <item>5.6 million</item>
+        <item>4.6 billion</item>
+        <item>5.6 billion</item>
+        <item>55 million</item>
+        <item>65 million</item>
+        <item>75 million</item>
+        <item>85 million</item>
+        <item>10,000</item>
+        <item>20,000</item>
+        <item>30,000</item>
+        <item>40,000</item>
+        <item>China</item>
+        <item>Qatar</item>
+        <item>UAE</item>
+        <item>United States</item>
+        <item>solid</item>
+        <item>liquid</item>
+        <item>gaseous</item>
+        <item>plasma</item>
+        <item>118 million kilometer square</item>
+        <item>128 million kilometer square</item>
+        <item>138 million kilometer square</item>
+        <item>148 million kilometer square</item>
+        <item>Atlantic Ocean and Pacific Ocean</item>
+        <item>Atlantic Ocean and Arctic</item>
+        <item>Arctic Ocean and Antarctic Ocean</item>
+        <item>Pacific Ocean and Arctic Ocean</item>
+        <item>atolls</item>
+        <item>tributaries</item>
+        <item>islets</item>
+        <item>archipelagos</item>
+        <item>Switzerland</item>
+        <item>Portugal</item>
+        <item>Turkey</item>
+        <item>Egypt</item>
+        <item>Green Mosque</item>
+        <item>Blue Mosque</item>
+        <item>Red Mosque</item>
+        <item>Yellow Mosque</item>
+        <item>Egypt</item>
+        <item>Portugal</item>
+        <item>Switzerland</item>
+        <item>Turkey</item>
+        <item>Egypt</item>
+        <item>Portugal</item>
+        <item>Switzerland</item>
+        <item>Turkey</item>
+        <item>Istanbul</item>
+        <item>Cairo</item>
+        <item>Makkah</item>
+        <item>Islamabad</item>
+        <item>Norway</item>
+        <item>Antarctica</item>
+        <item>Arctic Ocean</item>
+        <item>Pacific Ocean</item>
+        <item>Norway</item>
+        <item>Antarctica</item>
+        <item>Arctic Ocean</item>
+        <item>Pacific Ocean</item>
+    </string-array>
+</resources>

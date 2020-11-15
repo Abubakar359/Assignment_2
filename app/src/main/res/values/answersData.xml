@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers">
+        <item>4.6 billion</item>
+        <item>65 million</item>
+        <item>40,000</item>
+        <item>UAE</item>
+        <item>solid</item>
+        <item>148 million kilometer square</item>
+        <item>Atlantic Ocean and Pacific Ocean</item>
+        <item>islets</item>
+        <item>Portugal</item>
+        <item>Blue Mosque</item>
+        <item>Egypt</item>
+        <item>Switzerland</item>
+        <item>Cairo</item>
+        <item>Antarctica</item>
+        <item>Arctic Ocean</item>
+    </string-array>
+</resources>
